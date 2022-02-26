@@ -4,3 +4,6 @@ Packages
 Temp
 UserSettings
 Builds
+.vscode
+Assembly-CSharp.csproj
+SolarSystem.sln
